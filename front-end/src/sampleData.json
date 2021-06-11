@@ -1,0 +1,81 @@
+[{
+  "date": "2021-01-02 13:00:00",
+  "location": "123456 10 ABC Road",
+  "description": "Caller alerts to fire at Blk 123 at 1253hrs, Nearby Dover Road activated and arrived on site at 1300 hours",
+  "men": ["LTA John","LTA James", "1SG Tom", "CPL Ben", "CPL How"],
+  "reports" : [{
+    "name": "LTA Working Live Demo (Click here to download!) ---->",
+    "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+    "serial": ""
+  },{
+    "name": "LTA James",
+    "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+    "serial": "G65LKJ"
+  },{
+    "name": "1SG Tom",
+    "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+    "serial": "LOP111"
+  },{
+    "name": "CPL Ben",
+    "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+    "serial": "541GAA"
+  },{
+    "name": "CPL How",
+    "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+    "serial": "99814A"
+  }]
+},
+  {
+    "date": "2021-02-02 13:00:00",
+    "location": "123440 99 CDE Road",
+    "description": "Caller alerts to fire at Blk 123 at 1254hrs, Nearby Dover Road activated and arrived on site at 1305 hours",
+    "men": ["LTA Surendra","LTA Pradeep", "1SG Tom", "CPL Ben", "CPL Jon"],
+    "reports" : [{
+      "name": "LTA Surendra",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "1A54DZ"
+    },{
+      "name": "LTA Pradeep",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "0254DZ"
+    },{
+      "name": "1SG Tom",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "PP54DZ"
+    },{
+      "name": "CPL Ben",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "JJ54DZ"
+    },{
+      "name": "CPL Jon",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "99814A"
+    }]
+  },
+  {
+    "date": "2021-03-02 13:00:00",
+    "location": "600111 77 FGH Road",
+    "description": "Caller alerts to fire at Blk 123 at 1249hrs, Nearby Dover Road activated and arrived on site at 1300 hours",
+    "men": ["LTA Jimmy","LTA Joe", "1SG Jay", "CPL Ben", "CPL How"],
+    "reports" : [{
+      "name": "LTA Jimmy",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "9954DZ"
+    },{
+      "name": "LTA Joe",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "AA54DZ"
+    },{
+      "name": "1SG Jay",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "QW54DZ"
+    },{
+      "name": "CPL Ben",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "WW54DZ"
+    },{
+      "name": "CPL How",
+      "reports": "Enter door. Fire on right. Put out fire using hose. Enter door. Fire on left.",
+      "serial": "MM54DZ"
+    }]
+  }]
