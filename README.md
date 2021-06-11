@@ -146,7 +146,7 @@ https://verbatim.vercel.app
 2. ML Libraries
     - OpenCV
     - PyTorch
-    - SpacCy
+    - spaCy
     - NumPy
 3. Autodesk Inventor
 4. IBM Cloud
