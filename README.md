@@ -94,7 +94,7 @@ Here are the following steps to quickly run the AI model on a sample video or im
 5. Run the following command on your terminal:
 
 ```    
-python inference.py -a annotation_file -e embedding_file -ml pretrained_model -v video_path (flags listed below)   
+python inference.py -a annotation_file -e embedding_file -ml pretrained_model -v video_path   
 ```
 - `-a` : annotation_file (required)  
 - `-e` : embedding_file (required) 
@@ -106,7 +106,9 @@ python inference.py -a annotation_file -e embedding_file -ml pretrained_model -v
 Here are the following steps to train the AI model on your machine.  
 1. Libraries required: Pytorch, Spacy, OpenCV, Numpy  
 2. Clone the repository onto your local machine  
-3. Navigate to the AI Model Folder in the repository on your local machine and run the following command on your terminal:
+3. Navigate to the AI Model directory
+4. If you are using our pretrained model, head to [this link](https://drive.google.com/drive/folders/1qAMsgAvIeC-arU5z1E75jnE0g6D5zKe0) and copy the `saved_model` folder into this directory
+5. Run the following command on your terminal:
 
 ```    
 python train.py -t training_folder_path -v validation_folder_path -ml pretrained_model
