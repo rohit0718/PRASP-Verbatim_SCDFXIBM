@@ -1,7 +1,17 @@
-Verbatim
-========
+<p align="center">
+  
+  <h1 align="center">Verbatim</h3>
 
-We are Surendra and Rohit (NUS), Pradeep and Pramath (UCB), and Anthony (NYU) from team PRASP.
+  <p align="center">
+    We are Surendra and Rohit (National University of Singapore), Pradeep and Pramath (University of California, Berkeley), and Anthony (New York University) from team PRASP.
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">
+        <img src="images/Figure_3.png" alt="Logo">
+    </a>
+    <br />
+  </p>
+</p>
 
 ## a) Short Description of Problem & Solution
 
@@ -107,7 +117,7 @@ Here are the following steps to train the AI model on your machine.
 1. Libraries required: Pytorch, Spacy, OpenCV, Numpy  
 2. Clone the repository onto your local machine  
 3. Navigate to the AI Model directory
-4. If you are using our pretrained model, head to [this link](https://drive.google.com/drive/folders/1qAMsgAvIeC-arU5z1E75jnE0g6D5zKe0) and copy the `saved_model` folder into this directory
+4. Head to [this link](https://drive.google.com/drive/folders/1qAMsgAvIeC-arU5z1E75jnE0g6D5zKe0) and copy the `glove_6B_300d` folder into this directory
 5. Run the following command on your terminal:
 
 ```    
